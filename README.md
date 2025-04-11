@@ -50,5 +50,5 @@
 
 <br clear="both">
 
-<img src="https://user-images.githubusercontent.com/GITHUB_USER_ID/REPO/OUTPUT/snake.svg" />
-###
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
