@@ -50,5 +50,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/nour-ab26/nour-ab26/output/github-contribution-grid-snake.svg" alt="snake" />
+<img src="https://user-images.githubusercontent.com/GITHUB_USER_ID/REPO/OUTPUT/snake.svg" />
 ###
