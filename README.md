@@ -1,15 +1,15 @@
 <h2 align="left">Hi 👋! My name is Nour and I'm an advanced engineering student</h2>
 
 ###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nour-ab26&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nour-ab26&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nour-ab26&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://github.com/user-attachments/assets/c31e6575-a32e-4952-ba5c-e47e9366098c" />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />![image](https://github.com/user-attachments/assets/281c2f7a-7241-4863-9b1c-86b4c477b7a0)
+
 
 ###
 
